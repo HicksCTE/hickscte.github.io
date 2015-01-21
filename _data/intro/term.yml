@@ -510,3 +510,19 @@
       description:
   blackDiamonds:
     - name: 'Sign up for Teen Entrepreneurship'
+
+- class: 19
+  topic: CDA 16 & 17
+  standards:
+    - 'I know about the changing nature of the workplace, the value of work to society, and the connection of work to the achievement of personal goals.'
+    - 'I can apply interests, personal skills, aptitudes and abilities to education planning and future career decisions. '
+  outline:
+    - name: Career Summary
+      url: https://docs.google.com/forms/d/105PG0oqtFHD6U-XqhNw5B3fBBOIA16S-ZJrATg7z4B8/viewform?usp=send_form
+      description:
+    - name: 'Bobilator'
+      url:https://drive.google.com/file/d/0BwB4YUf91QtCYzA3eEZkc21uNEE/view?usp=sharing
+      description:
+     - name: 'Career Exploration'
+      url:https://utahfutures.org/assessments/interest-profiler
+      description: 
