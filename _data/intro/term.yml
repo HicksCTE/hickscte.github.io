@@ -58,6 +58,9 @@
     - name: '250 word outline of a Rich Life for you in high school, what you will need to do to get it'
       url:
       description:
+    - name: 'Money Essentials'
+      url: https://docs.google.com/forms/d/1BMGK0u6Fo53esFlGK6nnmElefIi9yrhDH2J908vhd1k/viewform?usp=send_form
+      description:
   blackDiamonds:
     - name: 'Ask your parents about creating a savings or investment account, share your experience in video, presentation, or blog post'
 
