@@ -219,12 +219,18 @@
     - name: Career Summary
       url: https://docs.google.com/forms/d/105PG0oqtFHD6U-XqhNw5B3fBBOIA16S-ZJrATg7z4B8/viewform?usp=send_form
       description:
-    - name: 'Code.org Activity 1-10'
-      url: http://studio.code.org/sections/XTNLZV
+    - name: 'Code.org Activity 1-10 Mrs. Q'
+      url: http://studio.code.org/sections/QREAVP
       description:
-    - name: 'Code.org Logins'
-      url: https://dl.dropboxusercontent.com/u/74616/intro/code%20logins.pdf
+    - name: 'Code.org Logins Mrs. Q'
+      url: https://www.dropbox.com/s/74jonp3sg6qjxak/Teacher%20Home%20Page%20%7C%20Code.org.pdf?dl=0
+      description: 
+    - name: 'Code.org Activity 1-10 Mrs. C'
+      url: http://studio.code.org/sections/LXZEWY
       description:
+    - name: 'Code.org Logins Mrs. C'
+      url: https://www.dropbox.com/s/4fpbqasiyfj8f7f/Teacher%20Home%20Page%20%7C%20Code.org%20C.pdf?dl=0
+      description: 
   blackDiamonds:
     - name: 'Finish the Code.org K-8 curriculum'
 
@@ -243,12 +249,18 @@
     - name: Career Summary
       url: https://docs.google.com/forms/d/105PG0oqtFHD6U-XqhNw5B3fBBOIA16S-ZJrATg7z4B8/viewform?usp=send_form
       description:
-    - name: 'Code.org Activity 1-10'
-      url: http://studio.code.org/sections/XTNLZV
+    - name: 'Code.org Activity 1-10 Mrs. Q'
+      url: http://studio.code.org/sections/QREAVP
       description:
-    - name: 'Code.org Logins'
-      url: https://dl.dropboxusercontent.com/u/74616/intro/code%20logins.pdf
+    - name: 'Code.org Logins Mrs. Q'
+      url: https://www.dropbox.com/s/74jonp3sg6qjxak/Teacher%20Home%20Page%20%7C%20Code.org.pdf?dl=0
+      description: 
+    - name: 'Code.org Activity 1-10 Mrs. C'
+      url: http://studio.code.org/sections/LXZEWY
       description:
+    - name: 'Code.org Logins Mrs. C'
+      url: https://www.dropbox.com/s/4fpbqasiyfj8f7f/Teacher%20Home%20Page%20%7C%20Code.org%20C.pdf?dl=0
+      description: 
   blackDiamonds:
     - name: 'Finish the Code.org K-8 curriculum'
 
