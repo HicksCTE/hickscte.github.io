@@ -528,6 +528,11 @@
     - 'I know what electives I should take if I enjoyed this CTE Intro rotation'
     - 'I have left feedback for future students and for Mr. Hicks'
   outline:
+    - name: Industrial Designer
+      url: https://utahfutures.org/occupations/41
+      description:
+      tags:
+        - career
     - name: Career Summary
       url: https://docs.google.com/forms/d/105PG0oqtFHD6U-XqhNw5B3fBBOIA16S-ZJrATg7z4B8/viewform?usp=send_form
       description:
